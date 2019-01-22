@@ -1,0 +1,6 @@
+[submodule "Task"]
+	path = Task
+	url = https://github.com/Jcing95/Task.git
+[submodule "Log"]
+	path = Log
+	url = https://github.com/Jcing95/Log.git
