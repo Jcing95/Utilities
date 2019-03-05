@@ -4,3 +4,6 @@
 [submodule "Log"]
 	path = Log
 	url = https://github.com/Jcing95/Log.git
+[submodule "FileIO"]
+	path = FileIO
+	url = https://github.com/Jcing95/FileIO.git
